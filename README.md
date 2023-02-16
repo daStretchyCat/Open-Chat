@@ -14,7 +14,7 @@ https://github.com/LAION-AI/Open-Assistant
 (Table with names + Descriptions + HF links )
 | Name | Description | Links |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Project Gutenberg Books | Some of the books are copyrighted! The crawler (parser) will ignore all books with an english copyright header by utilizing a regex expression, but make sure to check out the metadata for each book manually to ensure they are okay to use in your country! More information on copyright: https://www.gutenberg.org/help/copyright.html and https://www.gutenberg.org/policy/permission.html | https://huggingface.co/sedthh |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
