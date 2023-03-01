@@ -37,9 +37,9 @@ Join in the effort - visit the [LAION public discord server](https://discord.gg/
 (Table with names + Descriptions + HF links )
 | Name | Description | Links |
 | --------------- | --------------- | --------------- |
-| Project Gutenberg Books | Some of the books are copyrighted! The crawler (parser) will ignore all books with an english copyright header by utilizing a regex expression, but make sure to check out the metadata for each book manually to ensure they are okay to use in your country! More information on copyright: https://www.gutenberg.org/help/copyright.html and https://www.gutenberg.org/policy/permission.html | https://huggingface.co/sedthh |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| Project Gutenberg Books | Make sure to check copyright notice on huggingface! | https://huggingface.co/datasets/sedthh/gutenberg_english; https://huggingface.co/datasets/sedthh/gutenberg_multilang |
+| Recipes | Dataset license: CC0 Public Domain; Derrived from the Kaggle dataset "Recipes from Tasty" | https://huggingface.co/datasets/dctanner/oa_recipes |
+| Reverse Summarization | Converted from 2 datasets, a Wikipedia one and a scored one (see huggingface) | https://huggingface.co/datasets/MyloBishop/reverse_summarization_dataset |
 
 
 ## Chat models:
