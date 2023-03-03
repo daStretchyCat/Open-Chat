@@ -39,7 +39,7 @@ Join in the effort - visit the [LAION public discord server](https://discord.gg/
 | --------------- | --------------- | --------------- |
 | Project Gutenberg Books | Make sure to check copyright notice on huggingface! | https://huggingface.co/datasets/sedthh/gutenberg_english; https://huggingface.co/datasets/sedthh/gutenberg_multilang |
 | Recipes | Dataset license: CC0 Public Domain; Derrived from the Kaggle dataset "Recipes from Tasty" | https://huggingface.co/datasets/dctanner/oa_recipes |
-| Reverse Summarization | Converted from 2 summarization datasets, a Wikipedia one (MIT) and a scored one (see huggingface) | https://huggingface.co/datasets/MyloBishop/reverse_summarization_dataset |
+| Reverse Summarization | Converted from 2 summarization datasets, a Wikipedia one and a scored one (see huggingface) | https://huggingface.co/datasets/MyloBishop/reverse_summarization_dataset |
 
 
 ## Chat models:
