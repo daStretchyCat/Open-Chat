@@ -37,8 +37,8 @@ Join in the effort - visit the [LAION public discord server](https://discord.gg/
 (Table with names + Descriptions + HF links )
 | Name | License | Description | Links |
 | --------------- | --------------- | --------------- | --------------- |
-| Project Gutenberg Books | Make sure to check copyright notice on huggingface! | -- | https://huggingface.co/datasets/sedthh/gutenberg_english; https://huggingface.co/datasets/sedthh/gutenberg_multilang |
 | Open-GIA Recipes | CC0 Public Domain | Derrived from the Kaggle dataset "Recipes from Tasty" | https://huggingface.co/datasets/dctanner/oa_recipes |
+| Project Gutenberg Books | See copyright notice on huggingface | -- | https://huggingface.co/datasets/sedthh/gutenberg_english; https://huggingface.co/datasets/sedthh/gutenberg_multilang |
 | Reverse Summarization | -- | Converted from 2 summarization datasets, a Wikipedia one and a scored one (see huggingface) | https://huggingface.co/datasets/MyloBishop/reverse_summarization_dataset |
 | Ubuntu Dialogue Q&A | Apache 2.0 | Filtered from the Ubuntu dialogue chatlogs from Kaggle to include Q&A pairs only | https://huggingface.co/datasets/sedthh/ubuntu_dialogue_qa |
 
